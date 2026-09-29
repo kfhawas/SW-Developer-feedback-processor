@@ -1,0 +1,9 @@
+id,date,customer,channel,rating,comment
+F001,2026-09-01,Alice Tan,Email,5,Great service and fast delivery
+F002,2026-09-01,Bob Lee,Web,2,Delivery was slow and the box was broken
+F003,2026-09-02,Carla Diaz,App,4,Easy to use app
+F004,2026-09-02,Dan Wu,Email,1,Terrible support - I want a refund
+F005,2026-09-03,Eve Park,Web,3,It was okay
+F006,2026-09-03,Farid Nasser,App,2,Customer is unhappy with the late update
+F007,2026-09-04,Gina Rossi,Web,5,Love the new design - amazing
+F008,2026-09-04,Hugo Silva,Email,4,Helpful and friendly staff

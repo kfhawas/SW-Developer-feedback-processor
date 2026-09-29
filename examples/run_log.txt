@@ -1,0 +1,13 @@
+INFO: read 8 rows from samples/feedback_clean.csv
+INFO: read 4 rows from samples/feedback_excel_export.csv
+INFO: read 3 rows from samples/feedback_semicolon_eu.csv
+WARNING: feedback_messy_values.csv line 3: rating '' is missing or not 1-5
+WARNING: feedback_messy_values.csv line 4: rating 'N/A' is missing or not 1-5
+WARNING: feedback_messy_values.csv line 7: rating '7' is missing or not 1-5
+WARNING: feedback_messy_values.csv line 9: date 'not a date' not recognised
+INFO: read 7 rows from samples/feedback_messy_values.csv
+ERROR: skipped feedback_missing_column.csv: missing required column(s) rating; found id, date, customer, channel, comment
+done: 22 rows from 4 file(s) (3 without a valid rating, 4 warnings)
+  -> examples/output/processed_feedback.csv
+  -> examples/output/summary.json
+exit code: 1

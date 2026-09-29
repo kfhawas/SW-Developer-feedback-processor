@@ -1,0 +1,60 @@
+{
+  "total": 7,
+  "average_rating": 3,
+  "channel_averages": {
+    "email": 3,
+    "web": 3,
+    "app": 3
+  },
+  "sentiment_counts": {
+    "positive": 3,
+    "negative": 2,
+    "neutral": 2
+  },
+  "five_star_count": 2,
+  "top_keywords": [
+    [
+      "delivery",
+      2
+    ],
+    [
+      "great",
+      1
+    ],
+    [
+      "service",
+      1
+    ],
+    [
+      "fast",
+      1
+    ],
+    [
+      "slow",
+      1
+    ],
+    [
+      "box",
+      1
+    ],
+    [
+      "broken",
+      1
+    ],
+    [
+      "easy",
+      1
+    ],
+    [
+      "use",
+      1
+    ],
+    [
+      "app",
+      1
+    ]
+  ],
+  "follow_up_ids": [
+    "F004"
+  ]
+}

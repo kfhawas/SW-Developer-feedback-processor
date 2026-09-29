@@ -1,0 +1,9 @@
+id,date,customer,channel,rating,comment
+M301,2026-09-10,Ann Ho,  WEB ,4.0,  good value
+M302,2026-09-10,Ben Ong,Email,,no rating given
+M303,,Cai Lin,App,N/A,The app is slow
+M304,2026/09/11,Dee Ray,Email,5,excellent
+
+M305,2026-09-12,Eli Kim,Web,7,out of range rating
+M306,2026-09-12,Fay Zhu,App,2,
+M307,not a date,Gus Tam,Web,3,average experience

@@ -1,0 +1,16 @@
+[project]
+name = "feedback-processor"
+version = "2.0.0"
+description = "Clean customer feedback CSV files, score sentiment, and write a summary."
+requires-python = ">=3.9"
+
+[tool.ruff]
+line-length = 120
+target-version = "py39"
+extend-exclude = ["original"]
+
+[tool.ruff.lint]
+select = ["E", "W", "F", "N", "B", "I", "UP", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
